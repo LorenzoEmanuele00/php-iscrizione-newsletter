@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +17,7 @@
         <button type="submit">Invia</button>
     </form>
     
-    <h3><?php include_once __DIR__ . "/functions.php"?></h3>
+    <?php include __DIR__ . "/functions.php"?>
 </body>
 </html>
 
